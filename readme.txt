@@ -5,3 +5,6 @@ Gir tracks changes of files.
 My boss prefers SVN
 git tracks changes
 git tracks changes of files
+
+lixinhui
+creating a new branch
