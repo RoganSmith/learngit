@@ -12,3 +12,4 @@ Branch test
 
 hjw
 >>>>>>> dev
+test --no-ff merge
