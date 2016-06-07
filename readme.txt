@@ -6,4 +6,9 @@ Git tracks changes.
 Creating a new branch is quick.
 =======
 Branch test
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+
+hjw
 >>>>>>> dev
